@@ -88,6 +88,8 @@ This repository contains the **Online Shop** project completed as part of Hackat
 ## Final Submission Branch
 - **Final Submission Branch:** `online_shop_branch`
 
+## Submission details 
 
-
+- **Linkedin:** 'https://www.linkedin.com/in/sumit-gujar-318229289/'
+- **Project Explain Video:** 'https://www.youtube.com/watch?v=862ETYbgJCk'  
 
